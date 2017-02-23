@@ -14,7 +14,10 @@ This Is An Unordered List Of The Games I Like
 Rocket League
 </li>
 <li>
-Thats About All I Play
+Pokemon
+</li>
+<li>
+That's About All I Play
 </li>
 </ul>
 </h6>
