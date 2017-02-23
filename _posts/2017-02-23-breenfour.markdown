@@ -8,7 +8,7 @@ title:  Breen Four
 <title>
 This Is An Unordered List Of The Games I Like
 </title>
-<h6>
+<h3>
 <ul>
 <li>
 Rocket League
@@ -20,16 +20,16 @@ Pokemon
 That's About All I Play
 </li>
 </ul>
-</h6>
+</h3>
 <br>
 This Is An Ordered List Of The Food I Like
-<h6>
+<h3>
 <ol>
 </ol>
 <li>
 EVERYTHING
 </li>
-</h6>
+</h3>
 </head>
 <body>
 </body>
