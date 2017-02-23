@@ -8,7 +8,7 @@ title:  Breen Four
 <title>
 This Is An Unordered List Of The Games I Like
 </title>
-<h2>
+<h6>
 <ul>
 <li>
 Rocket League
@@ -17,7 +17,7 @@ Rocket League
 Thats About All I Play
 </li>
 </ul>
-</h2>
+</h6>
 </head>
 <body>
 </body>
