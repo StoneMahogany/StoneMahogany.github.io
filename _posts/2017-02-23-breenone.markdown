@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  Breen
+title:  Breen One
 ---
-Hi Mrs. Breen
-<!DOCTYPE html>
 <html>
 <head>
 <title>
