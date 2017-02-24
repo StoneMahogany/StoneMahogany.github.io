@@ -4,7 +4,7 @@ title:  Breen Three
 ---
 <h2>
 
-umm... I didn't have much planned here... so here's a dog on a treadmill!
+umm... I didn't have much planned here... so here's two corgis on a treadmill!
 
 </h2>
 
