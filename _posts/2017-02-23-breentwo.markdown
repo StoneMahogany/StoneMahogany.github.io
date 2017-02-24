@@ -27,9 +27,7 @@ That's About All I Play
  
  <img src="http://vignette1.wikia.nocookie.net/rocketleague/images/3/32/Rocket_League_Logo.png/revision/latest?cb=20150611180530" width="125px"/>
  <br>
- </head>
-<body>
-<h2>This Is An Ordered List Of The Food I Like</h2>
+ <h2>This Is An Ordered List Of The Food I Like</h2>
 <h3>
 <ol>
 
@@ -38,5 +36,7 @@ EVERYTHING
 </li>
 </ol>
 </h3>
+</head>
+<body>
 </body>
 </html>
