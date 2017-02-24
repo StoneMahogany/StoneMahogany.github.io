@@ -6,8 +6,9 @@ title:  Breen One
 <a href="https://en.wikipedia.org/wiki/Egg" target="_blank">
 <img src="https://www.alcoholprofessor.com/wp-content/uploads/2016/03/Egg_spiral_egg_cup-Marie-Lan-Nguyen-Wikimedia-Commons-1.jpg" width="500px"/>
 </a>
-
-<a href="http://stonemahogany.com/2017/02/23/breenone.html" target="Page One"></a>
-<a href="http://stonemahogany.com/2017/02/23/breentwo.html" target="Page Two"></a>
-<a href="http://stonemahogany.com/2017/02/23/breenthree.html" target="Page Three"></a>
-<a href="http://stonemahogany.com/2017/02/23/breenfour.html" target="Page Four"></a>
+<h1>
+<a href="http://stonemahogany.com/2017/02/23/breenone.html" target="_blank">Page One</a>
+<a href="http://stonemahogany.com/2017/02/23/breentwo.html" target="_blank">Page Two</a>
+<a href="http://stonemahogany.com/2017/02/23/breenthree.html" target="_blank">Page Three</a>
+<a href="http://stonemahogany.com/2017/02/23/breenfour.html" target="_blank">Page Four</a>
+</h1>
