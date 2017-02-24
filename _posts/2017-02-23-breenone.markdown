@@ -2,7 +2,7 @@
 layout: post
 title:  Breen One
 ---
-<h1>My name is Harrison, or more likely known as Harold Wife. I am married with nine kids and live a very happy life.</h1>
+<h1>My name is Harrison, or more likely known as Harold Wife. I am married with nine kids and live a very happy life. Below is a picture of an male child in its egg waiting its 10 years to hatch, and if you click on it, you can learn about it.</h1>
 <a href="https://en.wikipedia.org/wiki/Egg" target="_blank">
 <img src="https://www.alcoholprofessor.com/wp-content/uploads/2016/03/Egg_spiral_egg_cup-Marie-Lan-Nguyen-Wikimedia-Commons-1.jpg" width="500px"/>
 </a>
