@@ -22,7 +22,7 @@ That's About All I Play
 </ul>
 </h3>
 Here's A Picture Of Them
- <img src="http://vignette1.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/c2/Pokemon-logo.jpg/revision/latest?cb=20130307192515" />
+ <img src="http://vignette1.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/c2/Pokemon-logo.jpg/revision/latest?cb=20130307192515" width="20px" />
 <br>
 This Is An Ordered List Of The Food I Like
 <h3>
