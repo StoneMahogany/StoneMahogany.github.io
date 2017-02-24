@@ -29,9 +29,10 @@ That's About All I Play
 <h2>This Is An Ordered List Of The Food I Like</h2>
 <h3>
 <ol>
-</ol>
+
 <li>
 EVERYTHING
 </li>
+</ol>
 </h3>
 </body>
