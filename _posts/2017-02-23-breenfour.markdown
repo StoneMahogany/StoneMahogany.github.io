@@ -2,12 +2,12 @@
 layout: post
 title:  Breen Four
 ---
-<html>
-<head>
-<title>
-</title>
-<!--For All Of The Other Ones Too, Up There Where It Says title:  Breen One, That Means That That Is The Title And That Counts?-->
-</head>
-<body>
-</body>
-</html>
+
+<br>
+<h1>
+<a href="http://stonemahogany.com/2017/02/23/breenone.html" target="_blank">Page One</a>
+<br>
+<a href="http://stonemahogany.com/2017/02/23/breentwo.html" target="_blank">Page Two</a>
+<br>
+<a href="http://stonemahogany.com/2017/02/23/breenthree.html" target="_blank">Page Three</a>
+</h1>
