@@ -5,7 +5,6 @@ title:  Breen One
 <html>
 <head>
 <title>
-<p>
 <h1>This Is Me</h1>
 </title>
 <h2>This Is An Unordered List Of The Games I Like</h2>
