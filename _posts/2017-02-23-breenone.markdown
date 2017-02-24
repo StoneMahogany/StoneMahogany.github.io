@@ -22,6 +22,7 @@ That's About All I Play
 </ul>
 </h3>
 Here's A Picture Of Them
+<br>
  <img src="http://vignette1.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/c2/Pokemon-logo.jpg/revision/latest?cb=20130307192515" width="200px" />
  <img src="http://vignette1.wikia.nocookie.net/rocketleague/images/3/32/Rocket_League_Logo.png/revision/latest?cb=20150611180530" width="125px" />
 <br>
