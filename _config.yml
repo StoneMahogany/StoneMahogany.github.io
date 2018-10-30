@@ -2,7 +2,7 @@
 title: StoneMahogany's Website
 email: stonemahogany157@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Uhh boneless chicken yeet colby
+ 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://StoneMahogany.com" # the base hostname & protocol for your site
 twitter_username: StoneMahogany
