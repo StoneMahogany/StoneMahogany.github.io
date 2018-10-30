@@ -4,9 +4,7 @@ title:  testPost
 ---
 <html>
 <head>
-<title>
-Yeet
-</title>
+<title Yeet /title>
  <br>
  <h2>This Is An Ordered List Of The Food I Like</h2>
 <h3>
