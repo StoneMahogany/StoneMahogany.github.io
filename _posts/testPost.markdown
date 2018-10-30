@@ -1,4 +1,4 @@
-type: post
+layout: post
 name: testerboi
 
 <html>
