@@ -20,7 +20,7 @@
 
     &,
     &:visited {
-        color: $color1: rgba(78, 62, 100, 1);
+        color: $rgba(78, 62, 100, 1);
     }
 }
 
@@ -33,7 +33,7 @@
     }
 
     .page-link {
-        color: $color1: rgba(66, 144, 244, 1);
+        color: $rgba(66, 144, 244, 1);
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
